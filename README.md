@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🧑‍💻 I’m a full-stack developer with a passion for building scalable, reliable, and AI-powered solutions.
-- 🎓 Pursuing my MS in Computer Science at Indiana University Bloomington (GPA: 3.9/4).
+- 🎓 Completed my MS in Computer Science at Indiana University Bloomington (GPA: 3.9/4).
 - 🌐 Experienced in Python, Java, JavaScript (React, Node.js, Vue), TypeScript, Flask, Django, and cloud technologies (AWS, Google Cloud).
 - 🏀 Outside of coding, I’m a professional basketball player, fitness freak, and avid cyclist.
 
