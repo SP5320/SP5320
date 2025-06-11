@@ -28,7 +28,7 @@
 
 ## 🌟 Featured Projects
 
-### 🔹 [Pharmacy Management System](#)
+### 🔹 [Pharmacy Management System](https://github.com/SP5320/Pharmacy-Management-System)
 A robust solution for managing pharmacy operations, streamlining prescription handling, and inventory management.
 
 ### 🔹 [Project Asvins](#)
