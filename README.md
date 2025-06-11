@@ -57,4 +57,12 @@ A Django-based diagnostic platform leveraging CNNs to detect and classify brain 
 
 ---
 
+<div align="center">
+  
+  ![snake gif](https://github.com/SP5320/SP5320/blob/output/github-snake-dark.svg)
+  
+</div>
+
+---
+
 _“Code. Collaborate. Compete. Repeat.”_
