@@ -35,7 +35,7 @@ A robust solution for managing pharmacy operations, streamlining prescription ha
 A secure MERN stack platform connecting patients, doctors, and insurers for appointment scheduling and claims, with integrated chatbot features.
 
 ### 🔹 [Business Collaboration Platform](#)
-A generative AI-powered app that accelerates enterprise team collaboration and point-of-contact identification — built with Node.js, React, PostgreSQL, and Google Gemini AI.
+A generative AI-powered app that accelerates enterprise team collaboration and point-of-contact identification, built with Node.js, React, PostgreSQL, and Google Gemini AI.
 
 ### 🔹 [Tumor Detection (Deep Learning)](#)
 A Django-based diagnostic platform leveraging CNNs to detect and classify brain tumors from MRI images (97.55% accuracy, 6k+ images).
