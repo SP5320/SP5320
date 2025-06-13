@@ -31,7 +31,7 @@
 ### 🔹 [Pharmacy Management System](https://github.com/SP5320/Pharmacy-Management-System)
 A robust solution for managing pharmacy operations, streamlining prescription handling, and inventory management.
 
-### 🔹 [Project Asvins](#)
+### 🔹 [Project Asvins](https://github.com/SP5320/project-asvins)
 A secure MERN stack platform connecting patients, doctors, and insurers for appointment scheduling and claims, with integrated chatbot features.
 
 ### 🔹 [Business Collaboration Platform](#)
