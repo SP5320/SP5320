@@ -28,17 +28,20 @@
 
 ## 🌟 Featured Projects
 
-### 🔹 [Pharmacy Management System](https://github.com/SP5320/Pharmacy-Management-System)
-A robust solution for managing pharmacy operations, streamlining prescription handling, and inventory management.
-
 ### 🔹 [Project Asvins](https://github.com/SP5320/project-asvins)
 A secure MERN stack platform connecting patients, doctors, and insurers for appointment scheduling and claims, with integrated chatbot features.
 
 ### 🔹 [Business Collaboration Platform](#)
 A generative AI-powered app that accelerates enterprise team collaboration and point-of-contact identification, built with Node.js, React, PostgreSQL, and Google Gemini AI.
 
+### 🔹 [EpiShield: Detecting Seizure Inducing Scenes In Videos](https://github.com/SP5320/EpiShield.git)
+A Flask-based video processing tool that detects and mitigates seizure-inducing scenes using OpenCV, allowing users to download grayscale or filtered versions for safer viewing.
+
 ### 🔹 [Tumor Detection (Deep Learning)](https://github.com/SP5320/brain-tumors-classification)
 A Django-based diagnostic platform leveraging CNNs to detect and classify brain tumors from MRI images (97.55% accuracy, 6k+ images).
+
+### 🔹 [Pharmacy Management System](https://github.com/SP5320/Pharmacy-Management-System)
+A robust solution for managing pharmacy operations, streamlining prescription handling, and inventory management.
 
 ---
 
