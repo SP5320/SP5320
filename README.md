@@ -31,7 +31,7 @@
 ### 🔹 [Project Asvins](https://github.com/SP5320/project-asvins)
 A secure MERN stack platform connecting patients, doctors, and insurers for appointment scheduling and claims, with integrated chatbot features.
 
-### 🔹 [Business Collaboration Platform](#)
+### 🔹 [Business Collaboration Platform](https://github.com/SP5320/business-colab-platform)
 A generative AI-powered app that accelerates enterprise team collaboration and point-of-contact identification, built with Node.js, React, PostgreSQL, and Google Gemini AI.
 
 ### 🔹 [EpiShield: Detecting Seizure Inducing Scenes In Videos](https://github.com/SP5320/EpiShield.git)
